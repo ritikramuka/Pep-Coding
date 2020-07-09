@@ -1,0 +1,7 @@
+1th block from source-> A to destination-> B
+2th block from source-> A to destination-> C
+1th block from source-> B to destination-> C
+3th block from source-> A to destination-> B
+1th block from source-> C to destination-> A
+2th block from source-> C to destination-> B
+1th block from source-> A to destination-> B

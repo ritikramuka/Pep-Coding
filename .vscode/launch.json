@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l001",
+            "request": "launch",
+            "mainClass": "l001",
+            "projectName": "pep coding_af69310b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - l001",
+            "request": "launch",
+            "mainClass": "graph.l001",
+            "projectName": "pep coding_af69310b"
+        }
+    ]
+}
